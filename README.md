@@ -1,7 +1,6 @@
 ---
 title: "Punam Polynesian & Indian Supermarket Website ( Coming Soon will be uploaded at the end of October or the start of November)"
-author: "Project Documentation"
-output: html_document
+author: "Mayur Bhagat"
 ---
 
 # Introduction
