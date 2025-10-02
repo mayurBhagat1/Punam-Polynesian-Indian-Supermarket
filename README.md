@@ -62,8 +62,9 @@ In the future, the **frontend folder** will host a modern React-based website fo
 
 The **Punam Polynesian & Indian Supermarket Website** provides:  
 - A **public product page** open to everyone.  
-- A **member-only system** for placing bookings and orders.  
+- A **customers-only system** for placing bookings and orders.  
 - A working **Order Tracking page** for customers to view and manage their orders.  
 - Tools for **staff** to manage products, bookings, and customers.  
 
 Currently, the website lives in the **backend folder**, but soon the **frontend folder** will include a React project to make the customer experience even better.  
+
