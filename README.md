@@ -67,5 +67,7 @@ The **Punam Polynesian & Indian Supermarket Website** provides:
 
 Currently, the website lives in the **backend folder**, but soon the **frontend folder** will include a React project to make the customer experience even better. 
 
+⚠️ License
+This project is licensed. Please review the license terms before modifying or redistributing any part of the codebase.
 
- Copyright 2025 Mayur Bhagat  Punam Polynesian & Indian Supermarket
+© 2025  Mayur Bhagat  Punam Polynesian & Indian Supermarket
