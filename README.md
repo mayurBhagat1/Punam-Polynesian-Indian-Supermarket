@@ -1,5 +1,5 @@
 ---
-title: "Punam Polynesian & Indian Supermarket Website"
+title: "Punam Polynesian & Indian Supermarket Website ( Coming Soon will be uploaded at the end of October or the start of November)"
 author: "Project Documentation"
 output: html_document
 ---
@@ -66,5 +66,7 @@ The **Punam Polynesian & Indian Supermarket Website** provides:
 - A working **Order Tracking page** for customers to view and manage their orders.  
 - Tools for **staff** to manage products, bookings, and customers.  
 
-Currently, the website lives in the **backend folder**, but soon the **frontend folder** will include a React project to make the customer experience even better.  
+Currently, the website lives in the **backend folder**, but soon the **frontend folder** will include a React project to make the customer experience even better. 
 
+
+ Copyright 2025 Mayur Bhagat  Punam Polynesian & Indian Supermarket
