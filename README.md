@@ -1,136 +1,130 @@
----
-title: "Punam Polynesian & Indian Supermarket Website ( Coming Soon will be uploaded at the end of October or the start of November)"
-author: "Mayur Bhagat"
----
 
-# Introduction
-
-The **Punam Polynesian & Indian Supermarket Website** is designed to support both **customers** and **staff**.  
-The main website currently runs from the **backend folder**, which contains all active features.  
-In the future, the **frontend folder** will host a modern React-based website for customers.  
 
 ---
 
-# Purpose of the Website
-
-- To allow customers to explore Polynesian & Indian supermarket products online.  
-- To let members place bookings and manage their accounts.  
-- To give staff the ability to manage products, customers, and bookings in one system.  
+# 🌺 Punam Polynesian & Indian Supermarket Website  
+### 📅 Coming Soon: Launching Late October to Early November  
+**Author:** Mayur Bhagat
 
 ---
 
-# Features
+## 🧭 Introduction
 
-## For Customers
-- **Public Product Page**: Everyone can view products and categories without logging in.  
-- **Member Login for Orders**: Only registered members can place bookings/orders.  
-- **Order Tracking Page**: Logged-in customers can see their orders, track status (pending, complete, cancelled), and cancel within 30 seconds if needed.  
-- **Contact Page**: Easy way to ask questions or get support.  
-- **Mobile-Friendly**: The site adapts to phones and tablets.  
+The **Punam Polynesian & Indian Supermarket Website** is being developed to serve both **customers** and **staff** with a seamless digital experience.  
 
-## For Staff
-- **Product Management**: Add, edit, or remove products.  
-- **Booking/Order Management**: View and process customer orders.  
-- **Customer Management**: Maintain customer accounts and details.  
-- **Database Connection**: All products, orders, and users are safely stored.  
+Currently, the site operates from the **backend folder**, which contains all active features. A modern **React-based frontend** is planned for launch soon, housed in the `frontend` folder.
 
 ---
 
-# How the Website Works
+## 🎯 Purpose
 
-1. **Visitors** can browse the product page without logging in.  
-2. To **place a booking/order**, the visitor must **log in as a customers**.  
-3. Once logged in, customers can request products and track their orders.  
-4. Orders appear in the **Order Tracking Page** where customers can check progress.  
-5. **Staff members** log in to manage products, bookings, and customer accounts.  
+- 🛒 Let customers explore Polynesian & Indian products online  
+- 📆 Enable members to place bookings and manage accounts  
+- 🧑‍💼 Empower staff to manage products, customers, and orders in one system  
 
 ---
 
+## 🌟 Key Features
 
+### 👥 For Customers
+- **Public Product Page** – Browse products and categories without logging in  
+- **Member Login** – Registered users can place bookings and orders  
+- **Order Tracking** – View order status (pending, complete, cancelled) and cancel within 30 seconds  
+- **Contact Page** – Reach out for support or inquiries  
+- **Mobile-Friendly Design** – Optimized for phones and tablets  
 
-# Future Plans
-
-- Build a **React frontend** for a smoother customer experience.  
-- Add **online payment options**.  
-- Create **staff dashboards** with reports and analytics.  
-- Add **loyalty programs** and **special offers**.  
-
----
-
-# Summary
-
-The **Punam Polynesian & Indian Supermarket Website** provides:  
-- A **public product page** open to everyone.  
-- A **customers-only system** for placing bookings and orders.  
-- A working **Order Tracking page** for customers to view and manage their orders.  
-- Tools for **staff** to manage products, bookings, and customers.  
-
-Currently, the website lives in the **backend folder**, but soon the **frontend folder** will include a React project to make the customer experience even better. 
+### 🛠️ For Staff
+- **Product Management** – Add, edit, or remove items  
+- **Order Management** – View and process customer bookings  
+- **Customer Management** – Maintain user accounts and details  
+- **Secure Database** – All data stored safely and efficiently  
 
 ---
 
-## 🛠️ Technologies Used
+## 🔄 How It Works
 
-- **Node.js + Express.js** → powers the backend, handles routing, orders, login, etc.  
-- **EJS (Embedded JavaScript Templates)** → used for rendering web pages dynamically (header, footer, orders page, etc.).  
-- **MySQL / SQL Database** → stores products, users, and orders securely.  
-- **CSS (Custom Styling)** → used for design and responsive pages.  
-- **Session-based Authentication** → login system for customers & staff (no shopping cart yet, but login is required for ordering).  
-- **Frontend (Planned)**: React will be added in the `frontend` folder for a modern user experience.  
-- **Deployment-ready** → can be hosted on cloud servers (AWS, Azure, etc.).  
+1. Visitors can browse products without logging in  
+2. To place an order, users must **log in as a customer**  
+3. Logged-in customers can request products and track orders  
+4. Orders appear on the **Order Tracking Page**  
+5. Staff log in to manage products, bookings, and customer accounts  
+
+---
+
+## 🚧 Future Enhancements
+
+- ✨ Launch React frontend for smoother UX  
+- 💳 Integrate online payment options  
+- 📊 Build staff dashboards with analytics  
+- 🎁 Add loyalty programs and special offers  
+
+---
+
+## 🧾 Summary
+
+The website offers:
+
+- ✅ A public product page for all visitors  
+- 🔐 A secure customer login system for bookings  
+- 📦 Real-time order tracking  
+- 🧑‍💼 Staff tools for managing operations  
+
+Currently hosted in the `backend` folder, the upcoming React frontend will elevate the customer experience.
+
+---
+
+## 🧰 Technologies Used
+
+| Technology | Purpose |
+|------------|---------|
+| Node.js + Express.js | Backend routing, login, and order handling |
+| EJS Templates | Dynamic page rendering |
+| MySQL / SQL | Secure data storage |
+| CSS | Custom styling and responsiveness |
+| Session Authentication | Login system for customers and staff |
+| React (Planned) | Modern frontend experience |
+| Cloud Deployment | Ready for AWS, Azure, etc. |
 
 ---
 
 ## 🚀 Getting Started
 
 1. **Install Requirements**  
-   - Make sure you have **Node.js** and **MySQL** installed.  
+   - Node.js and MySQL  
 
-2. **Clone or Download the Project**  
-   - Extract the project folder from the zip file.  
+2. **Download the Project**  
+   - Extract the zip folder  
 
 3. **Install Dependencies**  
    ```bash
    cd backend
    npm install
-   ```  
+   ```
 
 4. **Set Up the Database**  
-   - Create a database in MySQL.  
-   - Import the provided SQL file (if included) or set up tables for **users, products, and orders**.  
-   - Update the database connection settings in the project’s config file (e.g., `db.js` or `.env`).  
+   - Create a MySQL database  
+   - Import SQL file or create tables for users, products, and orders  
+   - Update connection settings in `db.js` or `.env`  
 
 5. **Run the Project**  
    ```bash
    npm run dev -w backend dev
    ```  
-   - The backend will start on **http://localhost:8080/**.  
+   - Visit: `http://localhost:8080/`
 
 6. **Access the Website**  
-   - Open your browser and go to `http://localhost:8080/`.  
-   - You can browse products without logging in.  
-   - To place or track orders, you must **log in as a customer**.  
+   - Browse products publicly  
+   - Log in to place or track orders  
 
 ---
 
+## ⚠️ Disclaimer & License
 
-# ⚠️ Disclaimer
+By using this website, you accept all risks. The creators are not liable for any issues or data loss.  
 
-By downloading, installing, or testing this website, you do so at your own risk.  
-The authors and maintainers are not responsible for any problems, damages, or data loss.
+You may **not edit, copy, or distribute** the code for commercial use unless authorized by **Mayur Bhagat**.  
 
-You are **not allowed** to edit, copy, or share the code for commercial or public use.  
-This website is only for testing, learning, or personal use **unless you are authorised by the creator, Mayur Bhagat**.
+© 2025 Mayur Bhagat, Punam Polynesian & Indian Supermarket. All rights reserved.
 
-**Copyright:**  
-All rights of this website belong to **Mayur Bhagat, Punam Polynesian & Indian Supermarket**.
+---
 
-
-
-
-
-⚠️ License
-
-This project is licensed. Please review the license terms before modifying or redistributing any part of the codebase.
-
-© 2025  Mayur Bhagat  Punam Polynesian & Indian Supermarket
