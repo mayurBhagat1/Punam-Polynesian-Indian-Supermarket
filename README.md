@@ -4,7 +4,7 @@
 
 # 🌺 Punam Polynesian & Indian Supermarket Website  
 ### 📅 Coming Soon: Launching Late October to Early November  
-**Author:** Mayur Bhagat
+**Author:** Mayur Bhagat  Punam Polynesian & Indian Supermarket 
 
 ---
 
