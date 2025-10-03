@@ -67,6 +67,8 @@ The **Punam Polynesian & Indian Supermarket Website** provides:
 
 Currently, the website lives in the **backend folder**, but soon the **frontend folder** will include a React project to make the customer experience even better. 
 
+---
+
 ## 🛠️ Technologies Used
 
 - **Node.js + Express.js** → powers the backend, handles routing, orders, login, etc.  
