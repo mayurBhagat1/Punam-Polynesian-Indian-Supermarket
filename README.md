@@ -5,7 +5,7 @@
 # 🌺 Punam Polynesian & Indian Supermarket Website  
 ### 📅 Update: Launch Date Extended
 
-Due to further assessment and additional testing required for the functionality of the website, the launch date has now been extended into early December or early January 2026.
+Due to further assessment and additional testing required for the functionality of the website, the launch date has now been extended into early December 2025 or early January 2026.
 
 We sincerely apologise for any inconvenience caused. Our team is working hard to ensure the website is fully operational and provides a smooth experience for both customers and staff.
 
