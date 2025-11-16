@@ -3,8 +3,13 @@
 ---
 
 # 🌺 Punam Polynesian & Indian Supermarket Website  
-### 📅 Coming Soon: Launching Late October to Early November  
-**Author:** Mayur Bhagat  Punam Polynesian & Indian Supermarket 
+### 📅 Update: Launch Date Extended
+
+Due to further assessment and additional testing required for the functionality of the website, the launch date has now been extended into early December or early January 2026.
+
+We sincerely apologise for any inconvenience caused. Our team is working hard to ensure the website is fully operational and provides a smooth experience for both customers and staff.
+
+We appreciate your patience and understanding. More information will be available shortly. 
 
 ---
 
