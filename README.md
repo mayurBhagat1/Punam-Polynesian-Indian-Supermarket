@@ -30,14 +30,14 @@ Currently, the site operates from the **backend folder**, which contains all act
 
 ### 👥 For Customers
 - **Public Product Page** – Browse products and categories without logging in  
-- **Member Login** – Registered users can place bookings and orders  
+- **Member Login** – Registered users can place  orders  
 - **Order Tracking** – View order status (pending, complete, cancelled) and cancel within 30 seconds  
 - **Contact Page** – Reach out for support or inquiries  
 - **Mobile-Friendly Design** – Optimized for phones and tablets  
 
 ### 🛠️ For Staff
 - **Product Management** – Add, edit, or remove items  
-- **Order Management** – View and process customer bookings  
+- **Order Management** – View and process customer orders 
 - **Customer Management** – Maintain user accounts and details  
 - **Secure Database** – All data stored safely and efficiently  
 
