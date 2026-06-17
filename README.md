@@ -3,10 +3,20 @@
 ---
 
 # 🌺 Punam Polynesian & Indian Supermarket Website  
-### 📅 Update: Launch Date Extended 
-The website has been successfully finished and tested. The estimated launch is now in July, and it is expected to go public before the end of the month.
+🚀 OFFICIAL LAUNCH ANNOUNCEMENT
 
-We appreciate your patience and understanding. Please keep an eye out, as it could go live at any time.
+The countdown is over — all final testing has now been successfully completed, and the project is ready for release.
+
+We are excited to announce the official launch will take place on Sunday, 21st July 2026, between 12:00 PM and 8:00 PM (Australian Eastern Standard Time, Brisbane time).
+
+This release marks the moment everything goes live for you to explore, download, and experience firsthand. The full project will be available as a downloadable file, giving you access to view, interact with, and explore the complete source code and structure.
+
+If any unexpected technical issues occur during deployment or file transfer, a backup launch is scheduled for Monday, 22nd July 2026, or further updates will be provided if required.
+
+This is more than just a release — it’s a complete build ready for you to dive into.
+
+IMPORTANT NOTICE:
+Please read the license at the end of this page before downloading.
 
 ---
 
