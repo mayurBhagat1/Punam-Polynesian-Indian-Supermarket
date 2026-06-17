@@ -122,11 +122,13 @@ Currently hosted in the `backend` folder, the upcoming React frontend will eleva
 
 ## ⚠️ Disclaimer & License
 
-By using this website, you accept all risks. The creators are not liable for any issues or data loss.  
+This license is valid from the date you download this file and remains active while in use.
 
-You may **not edit, copy, or distribute** the code for commercial use unless authorized by **Mayur Bhagat**.  
+By using this website, you accept all associated risks. The creators are not liable for any issues, damages, or data loss that may occur.
 
-© 2025 Mayur Bhagat, Punam Polynesian & Indian Supermarket. All rights reserved.
+You may not edit, copy, or distribute this code for commercial purposes without prior written authorization from Mayur Bhagat.
+
+© current year Mayur Bhagat, Punam Polynesian & Indian Supermarket. All rights reserved.
 
 ---
 
